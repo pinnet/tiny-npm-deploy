@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc"
   },
   "author": "Danny Arnold <danny@dannyarnold.com>",
   "license": "SEE LICENSE IN <private>",
